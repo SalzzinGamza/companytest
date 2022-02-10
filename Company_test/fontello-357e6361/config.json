@@ -1,0 +1,40 @@
+{
+  "name": "bootstrap",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "98edd99a41fbdc5633151cd21b7e56f8",
+      "css": "up",
+      "code": 59392,
+      "src": "iconic"
+    },
+    {
+      "uid": "f06fe7ff18d1c591bc1183cb3ab105e9",
+      "css": "google",
+      "code": 61856,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c64623255a4a7c72436b199b05296c4f",
+      "css": "emo-happy",
+      "code": 59393,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9c2b737b16ae2c8d66b7bfd29ba5ecd8",
+      "css": "chrome",
+      "code": 59457,
+      "src": "fontelico"
+    },
+    {
+      "uid": "84f3880057574e968053d6d6c8a7b216",
+      "css": "behance-1",
+      "code": 62286,
+      "src": "entypo"
+    }
+  ]
+}
